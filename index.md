@@ -1388,9 +1388,553 @@ lang: ja_JP
  </g>
 </svg>
 
-<!--
-<h3>202</h3>
 
+<h3>2022.12/14</h3>
+
+
+<svg id="svg5" width="99.657mm" height="103.72mm" version="1.1" viewBox="0 0 99.657 103.72" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs2">
+  <filter id="filter1100" x="-.00084565" y="-.00061021" width="1.0017" height="1.0012" color-interpolation-filters="sRGB">
+   <feTurbulence id="feTurbulence1084" baseFrequency="0.037" numOctaves="3" result="result0"/>
+   <feSpecularLighting id="feSpecularLighting1088" result="result1" specularExponent="24.29999924" surfaceScale="2">
+    <feDistantLight id="feDistantLight1086" azimuth="225" elevation="45"/>
+   </feSpecularLighting>
+   <feDiffuseLighting id="feDiffuseLighting1092" diffuseConstant="1.21000004" in="result0" surfaceScale="3">
+    <feDistantLight id="feDistantLight1090" azimuth="225" elevation="42"/>
+   </feDiffuseLighting>
+   <feBlend id="feBlend1094" in2="SourceGraphic" mode="multiply" result="result91"/>
+   <feComposite id="feComposite1096" in="result1" in2="result91" k2="1" k3="1" operator="arithmetic"/>
+   <feComposite id="feComposite1098" in2="SourceAlpha" operator="in" result="result2"/>
+  </filter>
+  <filter id="filter10530" x="-41.964" y="-14.721" width="84.929" height="30.442" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10506" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10514" in="result3" result="result1">
+    <feFuncR id="feFuncR10508" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10510" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10512" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10516" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10518" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10520" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10524" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10522" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10526" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10528" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10556" x="-.14978" y="-.26813" width="1.2996" height="1.5363" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10532" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10540" in="result3" result="result1">
+    <feFuncR id="feFuncR10534" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10536" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10538" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10542" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10544" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10546" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10550" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10548" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10552" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10554" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10582" x="-.14986" y="-.26906" width="1.2997" height="1.5381" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10558" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10566" in="result3" result="result1">
+    <feFuncR id="feFuncR10560" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10562" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10564" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10568" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10570" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10572" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10576" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10574" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10578" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10580" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10608" x="-.26341" y="-.23656" width="1.5268" height="1.4731" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10584" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10592" in="result3" result="result1">
+    <feFuncR id="feFuncR10586" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10588" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10590" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10594" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10596" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10598" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10602" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10600" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10604" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10606" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10634" x="-.26436" y="-.23596" width="1.5287" height="1.4719" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10610" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10618" in="result3" result="result1">
+    <feFuncR id="feFuncR10612" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10614" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10616" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10620" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10622" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10624" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10628" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10626" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10630" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10632" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10660" x="-.66686" y="-.50814" width="2.3337" height="2.0163" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10636" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10644" in="result3" result="result1">
+    <feFuncR id="feFuncR10638" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10640" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10642" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10646" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10648" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10650" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10654" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10652" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10656" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10658" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10686" x="-.67128" y="-.51163" width="2.3426" height="2.0233" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10662" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10670" in="result3" result="result1">
+    <feFuncR id="feFuncR10664" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10666" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10668" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10672" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10674" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10676" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10680" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10678" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10682" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10684" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10712" x="-.14087" y="-.26561" width="1.2817" height="1.5312" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10688" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10696" in="result3" result="result1">
+    <feFuncR id="feFuncR10690" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10692" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10694" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10698" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10700" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10702" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10706" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10704" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10708" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10710" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10738" x="-.1517" y="-.16957" width="1.3034" height="1.3391" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10714" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10722" in="result3" result="result1">
+    <feFuncR id="feFuncR10716" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10718" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10720" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10724" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10726" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10728" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10732" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10730" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10734" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10736" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10764" x="-.26879" y="-.2075" width="1.5376" height="1.415" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10740" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10748" in="result3" result="result1">
+    <feFuncR id="feFuncR10742" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10744" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10746" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10750" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10752" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10754" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10758" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10756" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10760" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10762" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10790" x="-.25977" y="-.16189" width="1.5195" height="1.3238" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10766" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10774" in="result3" result="result1">
+    <feFuncR id="feFuncR10768" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10770" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10772" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10776" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10778" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10780" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10784" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10782" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10786" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10788" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10816" x="-.1527" y="-.17132" width="1.3054" height="1.3426" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10792" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10800" in="result3" result="result1">
+    <feFuncR id="feFuncR10794" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10796" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10798" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10802" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10804" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10806" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10810" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10808" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10812" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10814" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10842" x="-.15124" y="-.1701" width="1.3025" height="1.3402" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10818" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10826" in="result3" result="result1">
+    <feFuncR id="feFuncR10820" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10822" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10824" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10828" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10830" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10832" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10836" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10834" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10838" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10840" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10868" x="-.27423" y="-.21018" width="1.5485" height="1.4204" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10844" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10852" in="result3" result="result1">
+    <feFuncR id="feFuncR10846" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10848" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10850" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10854" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10856" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10858" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10862" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10860" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10864" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10866" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10894" x="-.26381" y="-.16454" width="1.5276" height="1.3291" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10870" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10878" in="result3" result="result1">
+    <feFuncR id="feFuncR10872" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10874" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10876" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10880" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10882" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10884" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10888" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10886" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10890" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10892" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10920" x="-.27212" y="-.20607" width="1.5442" height="1.4121" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10896" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10904" in="result3" result="result1">
+    <feFuncR id="feFuncR10898" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10900" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10902" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10906" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10908" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10910" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10914" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10912" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10916" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10918" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10946" x="-.36022" y="-.50688" width="1.7204" height="2.0138" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10922" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10930" in="result3" result="result1">
+    <feFuncR id="feFuncR10924" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10926" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10928" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10932" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10934" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10936" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10940" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10938" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10942" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10944" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10972" x="-.1518" y="-.16821" width="1.3036" height="1.3364" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10948" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10956" in="result3" result="result1">
+    <feFuncR id="feFuncR10950" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10952" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10954" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10958" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10960" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10962" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10966" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10964" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10968" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10970" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter10998" x="-.27266" y="-.20608" width="1.5453" height="1.4122" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur10974" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer10982" in="result3" result="result1">
+    <feFuncR id="feFuncR10976" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG10978" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB10980" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur10984" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend10986" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix10988" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting10992" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight10990" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite10994" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite10996" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter11024" x="-.2632" y="-.079667" width="1.5264" height="1.1593" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur11000" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer11008" in="result3" result="result1">
+    <feFuncR id="feFuncR11002" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG11004" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB11006" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur11010" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend11012" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix11014" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting11018" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight11016" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite11020" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite11022" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter11050" x="-.36369" y="-.11804" width="1.7274" height="1.2361" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur11026" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer11034" in="result3" result="result1">
+    <feFuncR id="feFuncR11028" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG11030" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB11032" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur11036" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend11038" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix11040" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting11044" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight11042" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite11046" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite11048" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter11076" x="-.27098" y="-.20541" width="1.542" height="1.4108" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur11052" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer11060" in="result3" result="result1">
+    <feFuncR id="feFuncR11054" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG11056" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB11058" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur11062" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend11064" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix11066" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting11070" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight11068" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite11072" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite11074" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter11102" x="-.15264" y="-.17048" width="1.3053" height="1.341" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur11078" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer11086" in="result3" result="result1">
+    <feFuncR id="feFuncR11080" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG11082" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB11084" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur11088" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend11090" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix11092" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting11096" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight11094" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite11098" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite11100" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter11128" x="-.26557" y="-.080045" width="1.5311" height="1.1601" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur11104" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer11112" in="result3" result="result1">
+    <feFuncR id="feFuncR11106" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG11108" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB11110" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur11114" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend11116" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix11118" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting11122" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight11120" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite11124" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite11126" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter11154" x="-.26985" y="-.080977" width="1.5397" height="1.162" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur11130" in="SourceGraphic" result="result3" stdDeviation="4"/>
+   <feComponentTransfer id="feComponentTransfer11138" in="result3" result="result1">
+    <feFuncR id="feFuncR11132" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncG id="feFuncG11134" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+    <feFuncB id="feFuncB11136" tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1" type="discrete"/>
+   </feComponentTransfer>
+   <feGaussianBlur id="feGaussianBlur11140" result="result5" stdDeviation="2"/>
+   <feBlend id="feBlend11142" in2="result1" mode="lighten" result="result6"/>
+   <feColorMatrix id="feColorMatrix11144" in="result6" result="result2" type="luminanceToAlpha"/>
+   <feDiffuseLighting id="feDiffuseLighting11148" lighting-color="#ffffff" diffuseConstant="0.69999999" in="result2" result="result1" surfaceScale="-15">
+    <feDistantLight id="feDistantLight11146" azimuth="225" elevation="20"/>
+   </feDiffuseLighting>
+   <feComposite id="feComposite11150" in="result1" in2="result6" k1="0.2" k2="0.5" k3="0.8" operator="arithmetic" result="result3"/>
+   <feComposite id="feComposite11152" in="result3" in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+ </defs>
+ <g id="layer1" transform="translate(-27.443 -161.85)">
+  <path id="path1214" transform="scale(.26458)" d="m368.22 790.56c8e-3 -0.13114 0.0862-0.40192 0.17385-0.60173 0.14224-0.32439 0.16028-0.31077 0.16849 0.12716 5e-3 0.26975-0.0732 0.54052-0.17385 0.60173-0.10068 0.0612-0.1765 4e-3 -0.16849-0.12716z" fill="#f00" filter="url(#filter10530)" stroke-width=".18223"/>
+  <path id="path1253" transform="scale(.26458)" d="m369.14 802.83c-0.0961-9.5072-0.0976-11.021-0.017-17.272l0.0732-5.6782 2.1465-0.72002c1.1806-0.39602 3.5852-1.21 5.3436-1.8088 1.7584-0.59881 4.1834-1.3941 5.3889-1.7673s3.5072-1.1345 5.115-1.6918c1.6078-0.55729 3.9505-1.3259 5.2062-1.7081 3.5374-1.0766 11.444-3.7091 12.777-4.2543 0.6591-0.26948 2.0202-0.74071 3.0248-1.0472 6.3814-1.9468 26.08-8.3847 26.562-8.6812 0.14203-0.0873 2.0327-0.70451 4.2014-1.3717l3.9432-1.213 3.6762 3.7126c4.0056 4.0453 5.7979 5.8222 8.2755 8.2046 0.88908 0.8549 3.5811 3.5066 5.9822 5.8928l4.3657 4.3384-1.851 0.62924c-1.0181 0.34609-3.0841 1.034-4.5911 1.5287s-3.9933 1.3479-5.525 1.896c-1.5317 0.54808-2.9353 0.9954-3.1192 0.99405-0.53666-4e-3 -18.033 5.7657-19.425 6.4056-0.43726 0.20104-1.3702 0.51898-2.0732 0.70654-0.70297 0.18756-2.6576 0.83029-4.3437 1.4283-1.686 0.59799-3.2081 1.0862-3.3822 1.0849-0.33672-2e-3 -11.302 3.5406-14.834 4.793-2.8074 0.9956-2.7853 0.98832-6.0283 1.9817-1.557 0.47693-6.4482 2.0863-10.869 3.5763-7.7509 2.6124-17.08 5.6803-19.022 6.2554l-0.93679 0.27746z" fill="#f00" filter="url(#filter10556)" stroke-width=".18223"/>
+  <path id="path1292" transform="scale(.26458)" d="m332.25 742.63c-1.7228-1.6915-3.7208-3.6043-4.4401-4.2506s-1.3071-1.2765-1.3062-1.4004c9.1e-4 -0.12388-1.3624-1.5107-3.0297-3.0817-3.0328-2.8579-10.483-10.225-10.339-10.224 0.2999 2e-3 15.919-5.2068 18.654-6.2209 1.8804-0.69743 4.3055-1.5035 5.389-1.7912 1.0835-0.28772 2.5866-0.72779 3.3401-0.97793s2.151-0.70438 3.1054-1.0094c3.7086-1.1853 10.376-3.4196 11.448-3.8365 0.61958-0.24091 1.5239-0.54548 2.0095-0.67681 1.6504-0.44631 4.3415-1.3058 11.204-3.5784 5.2197-1.7286 7.0525-2.414 7.6994-2.8793 0.68395-0.4919 1.0213-0.61046 1.7357-0.60999 0.48771 3.2e-4 1.2978-0.14568 1.8003-0.32444 0.50245-0.17876 1.6124-0.57285 2.4666-0.87577 0.85417-0.30292 3.0735-1.0062 4.9318-1.5628 1.8583-0.55663 3.5413-1.1233 3.74-1.2594 0.1987-0.13602 0.50856-0.24623 0.68859-0.2449 0.36182 3e-3 10.883-3.3714 13.199-4.2327 1.6767-0.62363 4.5174-1.4872 4.6038-1.3995 0.0321 0.0325 0.062 6.661 0.0665 14.73l8e-3 14.671-0.51171 0.12443c-0.28144 0.0684-1.2189 0.39037-2.0832 0.71541s-2.5578 0.89036-3.7632 1.2563c-1.2054 0.36592-3.1782 1.0052-4.384 1.4205-1.2058 0.41537-3.6719 1.2242-5.4802 1.7973-3.5849 1.1362-10.599 3.4689-12.057 4.0096-0.50251 0.18639-4.2426 1.3982-8.3114 2.693-4.0688 1.2948-9.3297 3.019-11.691 3.8317-5.4005 1.8586-5.4937 1.8895-11.326 3.7463-2.6623 0.84757-6.8542 2.2113-9.3154 3.0304-2.4612 0.81916-4.5747 1.4886-4.6967 1.4877-0.12201-8.9e-4 -1.6314-1.3856-3.3541-3.0771z" fill="#f00" filter="url(#filter10582)" stroke-width=".18223"/>
+  <path id="path1331" transform="scale(.26458)" d="m365.9 806.83c-1.3809-1.4426-4.5251-4.461-6.9667-6.6879-0.49779-0.45401-3.8402-3.7915-7.4276-7.4166-3.5874-3.6251-7.3727-7.4142-8.4118-8.4203-6.0714-5.8784-11.264-10.963-15.006-14.697-9.2143-9.1909-12.979-12.927-13.985-13.879l-1.0508-0.99391 2.9786-0.95628c4.4504-1.4288 13.055-4.2761 14.305-4.7332 0.60299-0.22063 1.836-0.62515 2.7401-0.89894 0.90407-0.27378 1.744-0.53474 1.8666-0.57991 0.12253-0.0452 2.5658 2.2494 5.4294 5.0989s6.8755 6.8436 8.9153 8.8757c2.0398 2.0321 6.2327 6.1474 9.3176 9.1452 3.0849 2.9978 6.398 6.2659 7.3625 7.2625l1.7536 1.8119-0.0277 5.6389c-0.0152 3.1014-0.0191 9.5547-9e-3 14.341 0.0105 4.786-0.0406 8.7001-0.11366 8.6982-0.073-2e-3 -0.8245-0.72622-1.6699-1.6095z" fill="#f00" filter="url(#filter10608)" stroke-width=".18223"/>
+  <path id="path1370" transform="scale(.26458)" d="m441.65 752.48c-0.79046-0.81434-2.1147-2.0602-2.9428-2.7685-0.82807-0.70831-1.5742-1.4724-1.658-1.6979-0.0838-0.22554-2.5781-2.7571-5.5428-5.6256-2.9647-2.8686-6.9837-6.8264-8.9311-8.7952-1.9474-1.9688-4.6782-4.6644-6.0684-5.9902s-3.2868-3.164-4.2146-4.0848l-1.687-1.6742-4e-3 -9.1581c-2e-3 -5.037-0.0495-10.003-0.10547-11.036-0.056-1.0328-0.0304-3.4365 0.0567-5.3416l0.15849-3.4637 2.0118 1.983c1.1065 1.0907 4.2912 4.259 7.0771 7.0407s6.1645 6.1234 7.5079 7.4261c2.8242 2.7383 12.651 12.421 18.182 17.916 2.0895 2.0757 4.6543 4.5688 5.6995 5.5404 1.0452 0.97152 2.755 2.6504 3.7994 3.7308s3.7102 3.7849 5.9238 6.01 4.0245 4.0996 4.024 4.1656c-4.9e-4 0.066-0.47348 0.26436-1.0511 0.44076-0.97166 0.29673-6.4153 2.175-10.431 3.5991-0.93894 0.33298-1.843 0.60517-2.009 0.60485-0.16601-3.1e-4 -1.905 0.54891-3.8644 1.2205-1.9594 0.6716-3.7723 1.27-4.0286 1.3299-0.40271 0.094-0.66171-0.0926-1.9033-1.3718z" fill="#f00" filter="url(#filter10634)" stroke-width=".18223"/>
+  <path id="path1409" transform="scale(.26458)" d="m312.44 741.84c0.0463-6.3391 0.0419-12.715-0.01-14.169l-0.094-2.6431 2.2807 2.2036c1.2544 1.212 4.1229 4.0828 6.3744 6.3795 2.2515 2.2968 4.16 4.1764 4.2412 4.177 0.0811 6e-4 2.0712 1.9273 4.4225 4.2815l4.275 4.2804-0.60325 0.20038c-0.33179 0.1102-3.1516 1.0425-6.2662 2.0719-3.1146 1.0293-6.0329 1.9952-6.485 2.1463-3.9071 1.3063-7.9128 2.5988-8.0509 2.5978-0.10158-7.5e-4 -0.13514-4.5843-0.0844-11.527z" fill="#f00" filter="url(#filter10660)" stroke-width=".18223"/>
+  <path id="path1448" transform="scale(.26458)" d="m463.72 774.2c-1.1932-1.1807-3.3081-3.2622-4.6998-4.6255-6.1797-6.0538-14.548-14.394-14.495-14.446 0.0319-0.0314 2.0651-0.73034 4.5183-1.5532s4.8303-1.6229 5.2825-1.7778c2.184-0.74861 11.391-3.6725 11.432-3.6306 0.16763 0.17013 0.29125 4.5417 0.16877 5.9686-0.0817 0.95156-0.11364 6.3226-0.071 11.936 0.0426 5.6131 0.0677 10.221 0.0556 10.24-0.012 0.0192-0.99812-0.9311-2.1913-2.1118z" fill="#f00" filter="url(#filter10686)" stroke-width=".18223"/>
+  <path id="path1487" transform="scale(.26458)" d="m359.44 768.78c-16.901-16.921-21.358-21.456-21.222-21.59 0.0752-0.0741 9.1894-3.1093 20.254-6.745s24.535-8.1419 29.936-10.014c5.4-1.872 12.414-4.2072 15.587-5.1893l5.7684-1.7858 12.961 13.164c7.1286 7.2403 13.322 13.174 13.764 13.185 0.44144 0.0115 1.5108 1.0416 2.3765 2.2891l1.5738 2.2681-13.249 4.3257c-20.662 6.7459-26.289 8.6589-31.866 10.833-2.8504 1.1114-6.0173 2.1471-7.0375 2.3015s-5.6383 1.5347-10.262 3.0672c-4.6241 1.5325-8.6995 2.7842-9.0565 2.7816-0.35701-3e-3 -4.6435-4.0039-9.5254-8.8918z" fill="#f00" filter="url(#filter10712)" stroke-width=".51542"/>
+  <path id="path1602" transform="scale(.26458)" d="m361.98 973.29c0.1596-8.8235 0.15346-24.51-0.0136-34.858-0.1671-10.348-0.145-19.394 0.0491-20.101 0.32006-1.1662 1.673-1.723 14.526-5.9778 7.795-2.5805 15.452-5.1512 17.015-5.7126 4.0961-1.4711 8.3619-2.5238 8.7227-2.1525 0.17098 0.17598 3.3052 3.1615 6.965 6.6346s8.3807 8.0736 10.491 10.224c2.1103 2.1499 5.3342 5.3131 7.1642 7.0294 1.83 1.7162 4.694 4.6883 6.3643 6.6047 1.6704 1.9164 3.2824 3.4913 3.5822 3.5 0.29987 9e-3 4.8704 4.4147 10.157 9.7912l9.6116 9.7756-24.691 8.1631c-13.58 4.4897-29.166 9.7428-34.636 11.674s-10.956 3.7293-12.192 3.9968c-1.236 0.26745-5.2479 1.5298-8.9153 2.8052-3.6674 1.2754-7.714 2.6258-8.9924 3.0009s-3.0386 0.899-3.9113 1.1644l-1.5869 0.48246z" fill="#008000" filter="url(#filter10738)" stroke-width=".51542"/>
+  <path id="path1641" transform="scale(.26458)" d="m356 984.77c-1.7593-1.6969-3.1977-3.2181-3.1965-3.3805 1e-3 -0.16236-0.63128-0.89086-1.4055-1.6189-2.6244-2.4678-21.156-20.646-32.193-31.578-6.0401-5.983-11.43-11.197-11.977-11.586-1.2751-0.90719-1.2677-1.682 0.016-1.6725 0.55185 4e-3 4.2131-1.1026 8.1361-2.4592 11.165-3.8612 12.895-4.4324 20.049-6.6208 3.6936-1.1299 7.8795-2.6107 9.302-3.2907 1.4224-0.67997 3.8412-1.463 5.3749-1.74 1.5338-0.27705 3.5096-0.86422 4.3908-1.3048 2.1875-1.0938 4.9237-1.393 5.2084-0.56953 0.31408 0.90867 0.0674 68.95-0.24985 68.926-0.14166-0.011-1.697-1.4084-3.4563-3.1053z" fill="#008000" filter="url(#filter10764)" stroke-width=".51542"/>
+  <path id="path1754" transform="scale(.26458)" d="m304.91 921.44c-0.29813-7.4537-0.30933-12.8-0.0279-13.317 0.38851-0.71325 0.51009-27.889 0.25675-57.388-0.0264-3.0714 0.0433-5.6742 0.15484-5.784 0.22488-0.22138 16.763 15.885 32.553 31.702 5.6282 5.638 12.823 12.842 15.989 16.009l5.7562 5.7585-0.0347 4.7144c-0.0191 2.5929 0.0978 6.4331 0.25981 8.5336l0.29453 3.8192-1.893 0.88563c-1.0411 0.48711-2.3423 0.88233-2.8916 0.87829-0.54925-4e-3 -2.314 0.56282-3.9217 1.2597-1.6077 0.69688-3.382 1.2637-3.9429 1.2595-0.90948-7e-3 -16.692 5.089-23.39 7.5521-1.4213 0.52263-6.0131 2.009-10.204 3.3029s-7.6215 2.5599-7.6233 2.813c-2e-3 0.25319-0.19085 0.45896-0.41997 0.45727-0.22912-2e-3 -0.64073-5.6072-0.91469-12.457z" fill="#0f0" filter="url(#filter10790)" stroke-width=".51542"/>
+  <path id="path1908" transform="scale(.26458)" d="m362.2 964.85c0.0969-13.252 0.0617-29.112-0.0783-35.243l-0.2545-11.148 1.3843-0.89252c1.5131-0.9756 34.177-12.087 37.049-12.603 1.745-0.31358 1.9898-0.10896 14.824 12.391 7.1774 6.9903 19.349 18.982 27.049 26.648l13.999 13.938-26.279 8.7617c-23.674 7.8932-67.379 22.247-67.73 22.245-0.0768-5.7e-4 -0.0603-10.844 0.0366-24.096z" fill="#0f0" filter="url(#filter10816)" stroke-width=".51542"/>
+  <path id="path1947" transform="scale(.26458)" d="m354.14 889.27c-10.129-10.038-12.12-11.979-22.658-22.092-5.2077-4.9976-12.986-12.604-17.285-16.904l-7.8166-7.8176 4.2767-1.4309c2.3522-0.78701 6.4862-2.2499 9.1868-3.2509 6.9154-2.5633 12.744-4.4674 15.759-5.1475 1.4198-0.32037 4.3257-1.2224 6.4576-2.0046s12.479-4.2047 22.993-7.6057c10.514-3.401 21.715-7.1784 24.892-8.3944 6.3538-2.4321 10.314-3.5868 10.757-3.1369 0.30312 0.30761 0.54676 14.397 0.75237 43.506 0.0679 9.6218 0.13012 17.958 0.13813 18.525 8e-3 0.56703-0.16376 3.0117-0.38173 5.4326l-0.3963 4.4016-2.9055 1.0629c-4.0466 1.4803-5.7078 2.022-21.505 7.012-7.672 2.4235-14.234 4.5017-14.582 4.6182-0.34798 0.11656-3.8047-2.9315-7.6816-6.7735z" fill="#0f0" filter="url(#filter10842)" stroke-width=".51542"/>
+  <path id="path1986" transform="scale(.26458)" d="m349.99 978.11c-5.0654-5.0686-16.759-16.618-25.986-25.665s-16.825-16.581-16.886-16.742c-0.0605-0.16093 7.2138-2.6719 16.165-5.58s18.368-6.0548 20.926-6.9928c5.9896-2.196 12.987-4.3259 14.182-4.3171 0.87792 6e-3 0.94934 1.0617 1.1605 17.147 0.12376 9.4268 0.0951 24.84-0.0637 34.252l-0.28877 17.113z" fill="#0f0" filter="url(#filter10868)" stroke-width=".51542"/>
+  <path id="path2025" transform="scale(.26458)" d="m450.93 949c-3.4966-3.3554-8.8914-8.6708-11.988-11.812-3.0971-3.1412-12.365-12.351-20.595-20.467l-14.964-14.755 0.0621-8.4361c0.0463-6.2901 0.22643-8.4898 0.70798-8.6473 0.35521-0.11616 2.855-0.98026 5.555-1.9202 2.7-0.93997 12.814-4.28 22.476-7.4223 9.6617-3.1423 18.546-6.1178 19.743-6.6123 1.197-0.49451 2.9986-1.0471 4.0036-1.228l1.8273-0.3289-0.0535 8.6904c-0.0294 4.7797 0.0437 10.431 0.1625 12.558 0.27181 4.867-0.0577 65.968-0.35739 66.264-0.12164 0.11987-3.082-2.5274-6.5786-5.8828z" fill="#0f0" filter="url(#filter10894)" stroke-width=".51542"/>
+  <path id="path2064" transform="scale(.26458)" d="m403.51 882.33c-0.19811-0.48817-0.0183-70.057 0.18063-69.877 0.15864 0.14291 4.619 4.5628 9.912 9.822 11.371 11.298 19.875 19.671 33.271 32.756 5.4069 5.2814 9.6648 9.755 9.4622 9.9411-0.38113 0.35007-8.2623 2.9892-16.385 5.4866-2.5572 0.78626-11.799 3.7876-20.537 6.6696-8.7384 2.882-15.895 5.2229-15.904 5.202z" fill="#0f0" filter="url(#filter10920)" stroke-width=".51542"/>
+  <path id="path2103" transform="scale(.26458)" d="m361.5 912.78c-0.0414-2.2414 0.0857-4.4764 0.57508-10.115l0.3524-4.06 11.626-3.8853c11.838-3.9561 15.605-5.2947 17.137-6.0898 1.1335-0.58821 9.3236-2.5565 9.5752-2.3011 0.10769 0.10929 0.30992 3.5892 0.4494 7.7332l0.25359 7.5345-1.7539 0.67416c-5.4093 2.0792-9.8744 3.5906-17.513 5.928-4.6881 1.4345-9.648 3.1642-11.022 3.8436s-2.769 1.1352-3.1 1.0127-1.7647 0.20151-3.186 0.72006c-1.4212 0.51856-2.758 0.94167-2.9706 0.94025-0.21261-1e-3 -0.40262-0.8725-0.42226-1.9357z" fill="#0f0" filter="url(#filter10946)" stroke-width=".51542"/>
+  <path id="path2179" transform="scale(.26458)" d="m174.97 875.56c-0.31465-25.836-0.25716-49.752 0.12104-50.354 0.3638-0.57906 6.521-2.858 11.113-4.1129 1.9884-0.54349 4.4955-1.4333 5.5713-1.9774 1.0758-0.5441 2.3906-0.98606 2.9217-0.98215 1.4855 0.0109 14.98-4.4015 17.58-5.7483l2.3084-1.1957 5.9664 6.0375c6.8874 6.9694 24.804 24.482 31.173 30.47 4.6722 4.3927 17.909 17.843 17.906 18.195-8.6e-4 0.11717-0.29522 0.21088-0.65412 0.20824-0.35891-3e-3 -3.9046 1.1514-7.8792 2.5645-8.2502 2.9332-8.8871 3.1433-30.218 9.9672-15.657 5.0089-42.659 14.004-49.086 16.353-1.8476 0.67511-4.0806 1.3587-4.9622 1.5191l-1.6029 0.29161z" fill="#00f" filter="url(#filter10972)" stroke-width=".51542"/>
+  <path id="path2218" transform="scale(.26458)" d="m165.32 888.61c-7.5798-7.7421-17.756-17.804-34.98-34.586-9.1139-8.8801-10.992-10.944-10.203-11.215 2.8124-0.96224 6.4852-2.2429 9.318-3.2491 1.7506-0.62182 4.075-1.2897 5.1652-1.4841 1.0902-0.19443 3.7266-0.99546 5.8585-1.7801 2.1319-0.78459 8.2936-2.837 13.692-4.5609 5.3989-1.7239 11.555-3.7872 13.681-4.585 2.1256-0.79788 4.1019-1.4491 4.3918-1.4472 0.30714 2e-3 0.53252 1.5633 0.54001 3.7408 0.0392 11.4-0.29098 66.037-0.39965 66.134-0.0708 0.0637-3.2498-3.0721-7.0646-6.9684z" fill="#00f" filter="url(#filter10998)" stroke-width=".51542"/>
+  <path id="path2257" transform="scale(.26458)" d="m118.36 830.07c0.0423-5.882 6e-3 -17.306-0.081-25.386-0.38004-35.382-0.022-144.17 0.47607-144.66 0.19392-0.19108 3.5815 2.9636 7.528 7.0105s7.4891 7.3602 7.8725 7.363c0.38343 3e-3 1.0587 0.56596 1.5007 1.2514 0.88619 1.3745 7.8433 8.5031 18.034 18.479 3.6475 3.5704 9.4458 9.2759 12.885 12.679l6.2533 6.187 3e-3 3.3945c2e-3 1.867-0.0242 17.311-0.058 34.32s-0.0729 40.087-0.0868 51.285c-0.014 11.198-0.0553 20.649-0.0918 21.003s-0.41509 0.64123-0.84132 0.63809c-0.42624-3e-3 -1.6439 0.45178-2.7058 1.0109s-2.5141 1.0132-3.227 1.009c-1.0986-6e-3 -5.78 1.4783-19.64 6.2291-5.7832 1.9823-27.165 8.8875-27.512 8.8848-0.2126-2e-3 -0.35197-4.8156-0.3097-10.698z" fill="#00f" filter="url(#filter11024)" stroke-width=".51542"/>
+  <path id="path2333" transform="scale(.26458)" d="m174.84 802.65c5.8e-4 -10.985 3e-3 -31.918 6e-3 -46.518s-0.0504-27.009-0.11815-27.576c-0.0678-0.56747-0.0578-4.2998 0.0222-8.294l0.14538-7.2622 2.1953-0.6395c1.2074-0.35172 3.1261-1.0506 4.2637-1.5531 1.1376-0.5025 2.8819-1.1334 3.8761-1.4019 0.99418-0.26856 2.9701-0.86634 4.3909-1.3284s3.978-1.2522 5.6827-1.7558c1.7046-0.50364 6.5869-2.0571 10.849-3.4521 4.2626-1.395 7.8486-2.4383 7.969-2.3185 0.1204 0.11982 0.18378 12.566 0.14084 27.658-0.0429 15.092-0.10315 37.53-0.13382 49.861-0.0307 12.331-0.10077 24.418-0.15579 26.86l-0.10004 4.439-10.205 3.4173c-10.577 3.5419-22.226 7.6658-25.564 9.0498-3.4851 1.4451-3.2662 2.7314-3.2651-19.186z" fill="#00f" filter="url(#filter11050)" stroke-width=".51542"/>
+  <path id="path2372" transform="scale(.26458)" d="m216.43 692.14c-0.0376-2.4808-0.10381-16.456-0.14721-31.056-0.0929-31.255-0.0897-27.901-0.03-31.571l0.0482-2.9642 7.2423 7.1414c3.9833 3.9278 10.817 10.647 15.185 14.931 4.3685 4.2845 9.1095 8.9583 10.536 10.386 1.4261 1.4279 6.58 6.5252 11.453 11.327 4.8732 4.802 8.7566 8.8332 8.6297 8.9582-0.12687 0.12501-2.7676 1.1011-5.8683 2.1692s-6.7168 2.4254-8.0358 3.0164-3.528 1.3366-4.9088 1.657c-1.3808 0.32035-9.4854 2.8181-18.01 5.5506-8.5248 2.7325-15.618 4.9673-15.763 4.9662-0.14461-1e-3 -0.29367-2.0317-0.33124-4.5124z" fill="#00f" filter="url(#filter11076)" stroke-width=".51542"/>
+  <path id="path2411" transform="scale(.26458)" d="m168.13 705.23c-3.1418-3.0925-6.8658-6.9069-8.2757-8.4765s-3.4837-3.6723-4.6086-4.6728-5.3852-5.1642-9.4673-9.2528c-4.0821-4.0886-8.0668-7.821-8.8548-8.2944s-1.4307-1.1349-1.4283-1.4702c2e-3 -0.33523-3.7096-4.1976-8.2491-8.5831-6.1447-5.9362-8.0061-8.013-7.285-8.128 1.9228-0.30649 9.2579-2.7708 10.256-3.4459 0.56198-0.37989 1.6333-0.68621 2.3807-0.68071 0.74739 6e-3 2.7303-0.67278 4.4064-1.5073 1.6761-0.83452 3.7004-1.5154 4.4982-1.5132 0.79789 2e-3 2.5406-0.4194 3.8726-0.93708 1.3321-0.51767 6.723-2.318 11.98-4.0007 5.2569-1.6827 13.278-4.3377 17.826-5.9 4.5473-1.5623 9.8953-3.3712 11.884-4.0198 1.9892-0.64861 4.3143-1.4246 5.167-1.7243 4.1482-1.4584 21.553-6.6598 21.72-6.4909 0.10449 0.10605 0.19281 16.324 0.19625 36.04l6e-3 35.847-3.2193 0.86819c-1.7706 0.47751-4.6148 1.3877-6.3204 2.0227-1.7056 0.63496-5.5421 1.9131-8.5255 2.8404-2.9834 0.92725-7.2877 2.4091-9.565 3.293-2.2773 0.88392-5.6486 1.9781-7.4916 2.4314-1.8431 0.45336-3.765 0.94865-4.271 1.1006-0.66627 0.20013-2.4955-1.2744-6.6323-5.3464z" fill="#00f" filter="url(#filter11102)" stroke-width=".51542"/>
+  <path id="path2635" transform="scale(.26458)" d="m269.44 861.97c-0.30916-0.7417-30.758-30.986-43.474-43.182l-9.1975-8.8215-0.0234-53.096c-0.0129-29.203-0.0497-53.31-0.0818-53.57-0.40064-3.2513 0.2517-4.2786 3.2464-5.1124 7.4882-2.0848 26.834-8.2304 30.504-9.6904 5.5848-2.2215 19.62-6.4035 20.044-5.9726 0.69321 0.7035 0.15371 179.11-0.54379 179.83-0.12138 0.12438-0.33485-0.0477-0.47437-0.38244z" fill="#00f" filter="url(#filter11128)" stroke-width=".72891"/>
+  <path id="path2674" transform="scale(.26458)" d="m255.81 847.57c-7.3625-7.3856-19.086-18.957-26.052-25.714l-12.666-12.286-0.0428-54.462c-0.0236-29.954 0.21714-54.748 0.53487-55.097 0.65083-0.71548 49.927-16.852 51.427-16.841 1.5139 0.0111 1.7628 29.081 0.92505 108.05l-0.74013 69.774z" fill="#00f" filter="url(#filter11154)" stroke-width=".72891"/>
+  <g id="g366" transform="matrix(.11486 0 0 .11486 -119.26 242.21)" fill="#f00" filter="url(#filter1100)">
+   <g id="g239">
+    <path id="path23" d="m1862.5-551.59h113.39" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path25" d="m1862.5-551.59h113.39" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path27" d="m1975.9-551.59v113.39" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path29" d="m1975.9-551.59v113.39" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path31" d="m1975.9-438.21h-113.39" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path33" d="m1975.9-438.21h-113.39" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path35" d="m1862.5-438.21v-113.39" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path37" d="m1862.5-438.21v-113.39" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path39" d="m1591.9-273.23h113.38" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path41" d="m1591.9-273.23h113.38" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path43" d="m1705.2-273.23v-113.38" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path45" d="m1705.2-273.23v-113.38" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path47" d="m1705.2-386.62h-113.38" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path49" d="m1705.2-386.62h-113.38" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path51" d="m1591.9-386.62v113.38" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path53" d="m1591.9-386.62v113.38" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path55" d="m1628.6-519.15h113.38" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path57" d="m1628.6-519.15h113.38" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path59" d="m1742-519.15v-113.39" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path61" d="m1742-519.15v-113.39" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path63" d="m1742-632.54h-113.38" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path65" d="m1742-632.54h-113.38" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path67" d="m1628.6-632.54v113.39" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path69" d="m1628.6-632.54v113.39" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <text id="text73" x="1591.8689" y="-273.23251" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan71" x="1591.8689" y="-273.23251">0 , 10</tspan></text>
+    <text id="text77" transform="rotate(-90 1705.3 -273.23)" x="1705.2548" y="-273.23251" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan75" x="1705.2548" y="-273.23251">0 , 10</tspan></text>
+    <text id="text81" transform="rotate(180 1705.3 -386.62)" x="1705.2548" y="-386.61835" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan79" x="1705.2548" y="-386.61835">0 , 10</tspan></text>
+    <text id="text85" x="1591.8689" y="-386.61835" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan83" x="1591.8689" y="-386.61835">0 , 10</tspan></text>
+    <text id="text89" x="1862.5109" y="-438.20822" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan87" x="1862.5109" y="-438.20822">0 , 30</tspan></text>
+    <text id="text93" transform="rotate(-90 1975.9 -438.21)" x="1975.8966" y="-438.20822" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan91" x="1975.8966" y="-438.20822">0 , 30</tspan></text>
+    <text id="text97" transform="rotate(180 1975.9 -551.59)" x="1975.8966" y="-551.59406" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan95" x="1975.8966" y="-551.59406">0 , 30</tspan></text>
+    <text id="text101" x="1862.5109" y="-551.59406" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan99" x="1862.5109" y="-551.59406">0 , 30</tspan></text>
+    <text id="text105" transform="rotate(180 1742 -632.53)" x="1742.0216" y="-632.53497" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan103" x="1742.0216" y="-632.53497">0 , 60</tspan></text>
+    <text id="text109" transform="rotate(90 1628.6 -632.53)" x="1628.6357" y="-632.53497" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan107" x="1628.6357" y="-632.53497">0 , 60</tspan></text>
+    <text id="text113" x="1628.6357" y="-519.14911" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan111" x="1628.6357" y="-519.14911">0 , 60</tspan></text>
+    <text id="text117" transform="rotate(180 1742 -519.15)" x="1742.0216" y="-519.14911" fill="#ff0000" font-family="Arial" font-size="9.449px"><tspan id="tspan115" x="1742.0216" y="-519.14911">0 , 60</tspan></text>
+    <path id="path119" d="m1571.7 37.729 56.7 55.951" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path121" d="m1571.7 130.91 56.7 55.951" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path123" d="m1571.7 130.91v-93.179" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path125" d="m1628.4 186.86v-93.18" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path127" d="m1571.7 37.729 56.7 55.951" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path129" d="m1571.7 130.91 56.7 55.951" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path131" d="m1628.4 93.679 98.19-32.303" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path133" d="m1628.4 186.86 98.19-32.303" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path135" d="m1726.6 154.56v-93.18" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path137" d="m1628.4 93.679 98.19-32.303" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path139" d="m1628.4 186.86 98.19-32.303" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path141" d="m1726.6 61.376-56.69-55.951" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path143" d="m1726.6 154.56-56.69-55.951" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path145" d="m1669.9 98.605v-93.179" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path147" d="m1726.6 61.376-56.69-55.951" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path149" d="m1726.6 154.56-56.69-55.951" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path151" d="m1669.9 5.4256-98.2 32.303" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path153" d="m1669.9 98.605-98.2 32.303" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path155" d="m1669.9 5.4256-98.2 32.303" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path157" d="m1669.9 98.605-98.2 32.303" fill="#f00" stroke="#0f0" stroke-linecap="round"/>
+    <path id="path159" d="m1677.4-113 56.69 55.951" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path161" d="m1677.4-81.945 56.69 55.951" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path163" d="m1677.4-81.945v-31.06" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path165" d="m1734.1-25.994v-31.06" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path167" d="m1677.4-113 56.69 55.951" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path169" d="m1677.4-81.945 56.69 55.951" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path171" d="m1734.1-57.054-98.19 32.303" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path173" d="m1734.1-25.994-98.19 32.303" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path175" d="m1635.9 6.3088v-31.06" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path177" d="m1734.1-57.054-98.19 32.303" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path179" d="m1734.1-25.994-98.19 32.303" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path181" d="m1635.9-24.751-56.69-55.951" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path183" d="m1635.9 6.3088-56.69-55.951" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path185" d="m1579.2-49.642v-31.06" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path187" d="m1635.9-24.751-56.69-55.951" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path189" d="m1635.9 6.3088-56.69-55.951" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path191" d="m1579.2-80.702 98.19-32.303" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path193" d="m1579.2-49.642 98.19-32.303" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path195" d="m1579.2-80.702 98.19-32.303" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path197" d="m1579.2-49.642 98.19-32.303" fill="#f00" stroke="#f00" stroke-linecap="round"/>
+    <path id="path199" d="m1482.8-180.1 56.69 55.95" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path201" d="m1482.8 6.2583 56.69 55.951" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path203" d="m1482.8 6.2583v-186.36" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path205" d="m1539.5 62.209v-186.36" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path207" d="m1482.8-180.1 56.69 55.95" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path209" d="m1482.8 6.2583 56.69 55.951" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path211" d="m1539.5-124.15-98.2 32.303" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path213" d="m1539.5 62.209-98.2 32.303" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path215" d="m1441.3 94.512v-186.36" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path217" d="m1539.5-124.15-98.2 32.303" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path219" d="m1539.5 62.209-98.2 32.303" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path221" d="m1441.3-91.847-56.69-55.95" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path223" d="m1441.3 94.512-56.69-55.951" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path225" d="m1384.6 38.561v-186.36" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path227" d="m1441.3-91.847-56.69-55.95" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path229" d="m1441.3 94.512-56.69-55.951" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path231" d="m1384.6-147.8 98.2-32.303" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path233" d="m1384.6 38.561 98.2-32.303" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path235" d="m1384.6-147.8 98.2-32.303" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+    <path id="path237" d="m1384.6 38.561 98.2-32.303" fill="#f00" stroke="#00f" stroke-linecap="round"/>
+   </g>
+  </g>
+ </g>
+</svg>
 
 
 <h3>202</h3>
