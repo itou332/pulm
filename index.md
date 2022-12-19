@@ -1936,12 +1936,18 @@ lang: ja_JP
  </g>
 </svg>
 
+
+
+<h3>2022.12/19</h3>
+
+<svg id="svg2567" width="71.013mm" height="70.587mm" version="1.1" viewBox="0 0 71.013 70.587" xmlns="http://www.w3.org/2000/svg">
+ <g id="layer1" transform="translate(-63.39 -98.164)" fill="#ff00ff" font-family="Arial" font-size="2.6405px" stroke-width=".27945">
+  <text id="text25" transform="rotate(45)" x="127.59097" y="38.021362"><tspan id="tspan23" x="127.59097" y="38.021362" stroke-width=".27945">0 , 60 , 0 , 89</tspan></text>
+  <text id="text29" transform="rotate(-75)" x="-133.31052" y="154.85799"><tspan id="tspan27" x="-133.31052" y="154.85799" stroke-width=".27945">0 , 60 , 0 , 89</tspan></text>
+  <text id="text33" transform="rotate(165)" x="-104.04337" y="-129.50757"><tspan id="tspan31" x="-104.04337" y="-129.50757" stroke-width=".27945">0 , 60 , 0 , 89</tspan></text>
+ </g>
+</svg>
 <!--
-
-<h3>202</h3>
-
-
-
 <h3>202</h3>
 
 >
