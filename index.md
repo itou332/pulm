@@ -1947,10 +1947,12 @@ lang: ja_JP
   <text id="text33" transform="rotate(165)" x="-104.04337" y="-129.50757"><tspan id="tspan31" x="-104.04337" y="-129.50757" stroke-width=".27945">0 , 60 , 0 , 89</tspan></text>
  </g>
 </svg>
+
 <!--
+
 <h3>202</h3>
 
->
+-->
 
 
 
