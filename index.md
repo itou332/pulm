@@ -1,12 +1,13 @@
 ---
 layout: default
-title: web絵　第11項/My painting record, paragraph 11.
+title: web絵　第13項/My painting record, paragraph 13.
 description: PCで描いた絵をここに記録します。<br>
 このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br> 
-pc,androidのスペックでも絵が変化します。絵はsvg形式で書かれています。<br>
+pc,androidのスペックでも絵が変化します。絵はほぼsvg形式で書かれています。<br>
 This is where I record the pictures I draw on my PC.<br>
-This site looks a little different if you use dark mode or change your browser.<br>
-The picture will also change depending on the specs of your PC or android. The pictures are written in svg format.
+This site looks a little different when you put it in dark mode or change browsers.<br>
+The picture changes even with PC and Android specs.<br>
+The picture is written almost in SVG format.
 lang: ja_JP
 ---
 
@@ -28,6 +29,7 @@ lang: ja_JP
     -<a href="https://itou332.github.io/pine/">11項</a>
     -<a href="https://itou332.github.io/banboo/">12項</a>
     -<a href="https://itou332.github.io/pulm/">13項</a>
+    -<a href="https://itou332.github.io/cypress/">14項</a>
     -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
@@ -1995,6 +1997,7 @@ lang: ja_JP
     -<a href="https://itou332.github.io/pine/">11項</a>
     -<a href="https://itou332.github.io/banboo/">12項</a>
     -<a href="https://itou332.github.io/pulm/">13項</a>
+    -<a href="https://itou332.github.io/cypress/">14項</a>
     -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
